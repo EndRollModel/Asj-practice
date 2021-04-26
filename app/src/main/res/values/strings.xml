@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">android_Basics_Kotlin</string>
+    <string name="from_emma">From Emma.</string>
+    <string name="happy_birthday_sam">Happy Birthday, Sam!</string>
+    <string name="todo">TODO</string>
+    <string name="unit1">unit1</string>
+    <string name="basics_layout">Basics Layout</string>
+    <string name="add_button">Add Button</string>
+    <string name="roll">Roll</string>
 </resources>
