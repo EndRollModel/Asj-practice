@@ -1,5 +1,5 @@
-<h3>＊我並不是計劃發起者      
-本Project僅是該企劃的練習</h3>
+<h3>＊我並不是計劃發起者</h3>
+<h3>本Project僅是該企劃的練習</h3>
 
 ### [Android App 開發培訓計劃 2021](https://events.withgoogle.com/android-study-jam-twhk-2021/#content)
 
