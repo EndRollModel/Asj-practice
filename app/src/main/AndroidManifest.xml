@@ -9,19 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Android_Basics_Kotlin">
+        <activity android:name=".unit2.b.UserExperience"/>
+        <activity android:name=".unit2.a.CalculateTip" />
         <activity android:name=".MainActivity">
-        </activity>
-        <activity android:name=".unit1.a.BasicLayout">
-        </activity>
-        <activity android:name=".unit1.b.AddAButton">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-
+        <activity android:name=".unit1.a.BasicLayout" />
+        <activity android:name=".unit1.b.AddAButton" />
     </application>
 
 </manifest>

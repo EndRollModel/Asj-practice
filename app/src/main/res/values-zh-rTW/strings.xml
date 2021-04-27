@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android_Basics_Kotlin</string>
+    <string name="ok_15">普通(15%)</string>
+    <string name="good_18">好(18%)</string>
+    <string name="amazing_20">太棒了(20%)</string>
+    <string name="unit2">單元2</string>
+    <string name="cost_of_service">服務金額</string>
+    <string name="roll">骰</string>
+    <string name="from_emma">來自Emma的祝福</string>
+    <string name="happy_birthday_sam">"Sam 生日快樂! "</string>
+    <string name="unit1">單元1</string>
+    <string name="basics_layout">Basics Layout</string>
+    <string name="add_button">Add Button</string>
+    <string name="todo">TODO</string>
+    <string name="round_up_tip">四捨五入？</string>
+    <string name="calculate">進行計算</string>
+    <string name="tip_amount">提示結算: %s</string>
+    <string name="user_experience">User experience</string>
+    <string name="how_was_the_service">您覺得該次服務如何？</string>
+    <string name="calculate_the_tip">Calculate the tip</string>
+    <string name="primary_color">Primary color</string>
+    <string name="button">Button</string>
+    <string name="secondary_color">Secondary color</string>
+    <string name="email_icon">email icon</string>
+</resources>
