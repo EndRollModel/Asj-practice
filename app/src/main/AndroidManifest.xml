@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Android_Basics_Kotlin">
-        <activity android:name=".unit2.b.UserExperience"/>
+        <activity android:name=".unit3.a.WordsMainActivity"></activity>
+        <activity android:name=".unit3.a.DetailActivity" />
+        <activity android:name=".unit2.c.ImageCards" />
+        <activity android:name=".unit2.b.UserExperience" />
         <activity android:name=".unit2.a.CalculateTip" />
         <activity android:name=".MainActivity">
             <intent-filter>

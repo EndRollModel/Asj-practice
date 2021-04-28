@@ -9,6 +9,7 @@ import com.sample.app.android_basics_kotlin.unit1.a.BasicLayout
 import com.sample.app.android_basics_kotlin.unit1.b.AddAButton
 import com.sample.app.android_basics_kotlin.unit2.a.CalculateTip
 import com.sample.app.android_basics_kotlin.unit2.b.UserExperience
+import com.sample.app.android_basics_kotlin.unit2.c.ImageCards
 
 class MainActivity : AppCompatActivity() {
     lateinit var binding : ActivityMainBinding
@@ -27,6 +28,7 @@ class MainActivity : AppCompatActivity() {
         binding.AddButtonButton.setOnClickListener { startActivity(Intent(this, AddAButton::class.java)) }
         binding.CalculateTheTipButton.setOnClickListener { startActivity(Intent(this, CalculateTip::class.java)) }
         binding.UserExperience.setOnClickListener { startActivity(Intent(this, UserExperience::class.java)) }
+        binding.CardList.setOnClickListener { startActivity(Intent(this, ImageCards::class.java)) }
     }
 
     private fun findViewById(){
@@ -36,6 +38,7 @@ class MainActivity : AppCompatActivity() {
         addButton.setOnClickListener { startActivity(Intent(this, AddAButton::class.java)) }
         calculateButton.setOnClickListener { startActivity(Intent(this, CalculateTip::class.java)) }
         userExperienceButton.setOnClickListener { startActivity(Intent(this, UserExperience::class.java)) }
+        cardListButton.setOnClickListener { startActivity(Intent(this, ImageCards::class.java)) }
     }
 
     private val basicsLayoutButton : Button by lazy {
@@ -49,5 +52,8 @@ class MainActivity : AppCompatActivity() {
     }
     private val userExperienceButton : Button by lazy {
         findViewById(R.id.UserExperience)
+    }
+    private val cardListButton : Button by lazy {
+        findViewById(R.id.CardList)
     }
 }

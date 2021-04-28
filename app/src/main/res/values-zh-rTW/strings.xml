@@ -23,4 +23,15 @@
     <string name="button">Button</string>
     <string name="secondary_color">Secondary color</string>
     <string name="email_icon">email icon</string>
+    <string name="affirmation1">我很強</string>
+    <string name="affirmation2">我相信我自己</string>
+    <string name="affirmation3">每一天都是讓自己變得更好的機會</string>
+    <string name="affirmation4">在我生命中的每一個挑戰都是一個學習的機會</string>
+    <string name="affirmation5">我非常感激</string>
+    <string name="affirmation6">好事總是浮現在我的生活中</string>
+    <string name="affirmation7">新的機會在每時每刻等著我</string>
+    <string name="affirmation8">我有勇氣跟隨我的心</string>
+    <string name="affirmation9">事情將在正確的時間開始</string>
+    <string name="affirmation10">我將展現一切於此時此刻</string>
+    <string name="card_list">Card List</string>
 </resources>
