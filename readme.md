@@ -11,18 +11,20 @@ Unit 1 （Kotlin basics for Android）
 
 - Introduction to Kotlin (無)
 - Create your first Android app (無)
-- Build a basic layout ( [Activity](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/java/com/sample/app/android_basics_kotlin/unit1/a/BasicLayout.kt) / [Layout](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/res/layout/activity_basic_layout.xml) )
-- Add a button to an app ( [Activity](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/java/com/sample/app/android_basics_kotlin/unit1/b/AddAButton.kt) / [Layout](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/res/layout/activity_basic_layout.xml) )
+- Build a basic layout ( [Activity](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/java/com/sample/app/android_basics_kotlin/unit1/a/BasicLayout.kt) / [Layout](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/res/layout/activity_basic_layout.xml))
+- Add a button to an app ( [Activity](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/java/com/sample/app/android_basics_kotlin/unit1/b/AddAButton.kt) / [Layout](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/res/layout/activity_basic_layout.xml))
 
 Unit 2 （Layouts）
 
 - Get user input in an app: Part 1 ([Activity](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/java/com/sample/app/android_basics_kotlin/unit2/a/CalculateTip.kt) / [Layout](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/res/layout/activity_calculate_tip.xml))
 - Get user input in an app: Part 2 ([Activity](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/java/com/sample/app/android_basics_kotlin/unit2/b/UserExperience.kt) / [Layout](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/res/layout/activity_user_experience.xml))
-- Display a scrollable list 
+- Display a scrollable list ([Activity](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/java/com/sample/app/android_basics_kotlin/unit2/c/ImageCards.kt) / [Layout](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/res/layout/activity_image_cards.xml))
 
 Unit 3 （Navigation）
 
-- Navigate between screens
+- Navigate between screens      
+    1. word - ([Activity](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/java/com/sample/app/android_basics_kotlin/unit3/a/WordsMainActivity.kt) / [Layout](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/res/layout/activity_words_main.xml))     
+    2. dessert - ([Activity](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/java/com/sample/app/android_basics_kotlin/unit3/a2/DessertClicker.kt) / [Layout](https://github.com/EndRollModel/Asj-practice/blob/master/app/src/main/res/layout/activity_dessert_clicker.xml))      
 - Introduction to the Navigation component 
 - Architecture components 
 - Advanced navigation app examples

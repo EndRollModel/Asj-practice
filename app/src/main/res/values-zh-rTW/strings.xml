@@ -34,4 +34,13 @@
     <string name="affirmation9">事情將在正確的時間開始</string>
     <string name="affirmation10">我將展現一切於此時此刻</string>
     <string name="card_list">Card List</string>
+    <string name="unit3">單元3</string>
+    <string name="detail_prefix">Words That Start With</string>
+    <string name="action_switch_layout">Switch Layout</string>
+    <string name="look_up_word">Look up word in a Browser Search</string>
+    <string name="look_up_words">Show Stored Words</string>
+    <string name="dessert_sold">販售甜點數量</string>
+    <string name="share_text">我點擊了%1$d個甜點,總共是%2$d$ #AndroidDessertClicker</string>
+    <string name="share">分享</string>
+    <string name="sharing_not_available">無法分享</string>
 </resources>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="primary">#FEDBD0</color>
+    <color name="on_Primary">#442C2E</color>
+    <color name="icon">#442C2E</color>
+<!--    custom-->
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -18,4 +22,10 @@
     <color name="blue_200">#FF90CAF9</color>
     <color name="blue_500">#FF2196F3</color>
     <color name="blue_700">#FF1976D2</color>
+<!--    dessert-->
+    <color name="color_primary">#008577</color>
+    <color name="color_primary_variant">#00574B</color>
+    <color name="color_secondary">#D81B60</color>
+    <color name="emerald">#6ab343</color>
+    <color name="grey">#99000000</color>
 </resources>
